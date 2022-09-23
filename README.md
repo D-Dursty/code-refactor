@@ -7,8 +7,11 @@ Additionally, accessibility has been updated to maximize experience for users of
 
 
 
+## Visuals and Weblink 
 
+Link to updated site: (https://d-dursty.github.io/code-refactor/)
 
+Screenshot of final site: (https://github.com/D-Dursty/code-refactor/issues/2)
 
-
-![alt text](https://github.com/D-Dursty/code-refactor/issues/2)
+## License
+N/A
